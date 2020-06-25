@@ -1,0 +1,38 @@
+2020/06/25 18:01:41 [notice] 22716#16780: signal process started
+2020/06/25 18:04:26 [notice] 14128#9336: signal process started
+2020/06/25 18:05:42 [notice] 7552#1488: signal process started
+2020/06/25 18:06:11 [notice] 4016#21292: signal process started
+2020/06/25 18:07:15 [notice] 14436#18160: signal process started
+2020/06/25 18:08:18 [notice] 13084#204: signal process started
+2020/06/25 18:08:18 [error] 13084#204: CreateFile() "C:\TEMP\xxxx\etracs255-server-iligan-release-20200615\nginx-download-server/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/06/25 18:08:57 [notice] 22148#11820: signal process started
+2020/06/25 18:08:57 [notice] 1760#15676: signal process started
+2020/06/25 18:09:06 [notice] 23760#11680: signal process started
+2020/06/25 18:09:06 [notice] 17800#7880: signal process started
+2020/06/25 18:09:06 [error] 17800#7880: CreateFile() "C:\TEMP\xxxx\etracs255-server-iligan-release-20200615\nginx-download-server/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/06/25 18:10:06 [notice] 24480#16992: signal process started
+2020/06/25 18:10:06 [notice] 17084#20968: signal process started
+2020/06/25 18:10:17 [notice] 20068#16432: signal process started
+2020/06/25 18:10:17 [notice] 20976#12272: signal process started
+2020/06/25 18:14:55 [notice] 21148#20088: signal process started
+2020/06/25 18:14:55 [error] 21148#20088: CreateFile() "C:\TEMP\xxxx\etracs255-server-iligan-release-20200615\nginx-download-server/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/06/25 18:14:55 [notice] 24376#1260: signal process started
+2020/06/25 18:14:55 [error] 24376#1260: CreateFile() "C:\TEMP\xxxx\etracs255-server-iligan-release-20200615\nginx-download-server/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/06/25 18:15:10 [error] 20500#18852: *1 CreateFile() "C:\TEMP\xxxx\etracs255-server-iligan-release-20200615\nginx-download-server/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:85", referrer: "http://localhost:85/"
+2020/06/25 18:16:14 [notice] 14112#13420: signal process started
+2020/06/25 18:16:14 [notice] 23372#20028: signal process started
+2020/06/25 18:18:00 [notice] 15476#23968: signal process started
+2020/06/25 18:18:00 [error] 15476#23968: CreateFile() "C:\TEMP\xxxx\etracs255-server-iligan-release-20200615\nginx-download-server/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/06/25 18:18:00 [notice] 20232#10252: signal process started
+2020/06/25 18:18:00 [error] 20232#10252: CreateFile() "C:\TEMP\xxxx\etracs255-server-iligan-release-20200615\nginx-download-server/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/06/25 18:28:52 [notice] 11680#5248: signal process started
+2020/06/25 18:28:52 [error] 11680#5248: CreateFile() "C:\TEMP\xxxx\etracs255-server-iligan-release-20200615\nginx-download-server/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/06/25 18:28:52 [notice] 10824#11644: signal process started
+2020/06/25 18:28:52 [error] 10824#11644: CreateFile() "C:\TEMP\xxxx\etracs255-server-iligan-release-20200615\nginx-download-server/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/06/25 18:42:26 [notice] 14804#372: signal process started
+2020/06/25 18:42:26 [notice] 20332#17288: signal process started
+2020/06/25 18:42:26 [error] 20332#17288: CreateFile() "C:\TEMP\xxxx\etracs255-server-iligan-release-20200615\nginx-download-server/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/06/25 18:42:28 [notice] 19292#24392: signal process started
+2020/06/25 18:42:28 [error] 19292#24392: CreateFile() "C:\TEMP\xxxx\etracs255-server-iligan-release-20200615\nginx-download-server/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/06/25 18:42:28 [notice] 23428#18956: signal process started
+2020/06/25 18:42:28 [error] 23428#18956: CreateFile() "C:\TEMP\xxxx\etracs255-server-iligan-release-20200615\nginx-download-server/logs/nginx.pid" failed (2: The system cannot find the file specified)
